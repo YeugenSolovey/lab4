@@ -1,0 +1,18 @@
+[
+    {
+        "Name": "GTX 1050",
+        "Vendor": "MSI",
+        "GB": 4,
+        "Flops": 2.1,
+        "Price": 99,
+        "Year": 2016
+    },
+    {
+        "Name": "GTX 1080",
+        "Vendor": "MSI",
+        "GB": 8,
+        "Flops": 6.5,
+        "Price": 699,
+        "Year": 2017
+    }
+]
